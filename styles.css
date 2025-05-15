@@ -57,7 +57,7 @@ a:visited {
 */
 
 header {
-	background: #2f261d	url(_images/banner_1200.jpg) no-repeat top center/cover; 
+	background: #2f261d	url(images/banner_1200.jpg) no-repeat top center/cover; 
 	height: 430px;
 	color: #ffffff;	
 }
